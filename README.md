@@ -36,10 +36,10 @@ If you would like this template to work out of the box, a few steps need to be f
 
 - We are using CMake Tools to build our Makefiles, and VS Code to debug our target (as CMake Tools debugging for me was producing an error). I have therefore removed the CMake Tools shortcuts for both debug and run (CMake: Debug and CMake: Run Without Debugging).
 
-- CMake: Build ............. Ctrl + Shift + B .............. Build the entire project
-- CMake: Build Target ...... Ctrl + B ...................... Build the current target
-- Debug: Start Debugging ... F5 ............................ Start debugging with GDB
-- Debug: Stop .............. Shift + F5 .................... Stop debugging
+- CMake: Build --> Ctrl + Shift + B (Build the entire project)
+- CMake: Build Target --> Ctrl + B (Build the current target)
+- Debug: Start Debugging --> F5 (Start debugging with GDB)
+- Debug: Stop --> Shift + F5 (Stop debugging)
 
 
 ## Project structure and CMake Basics
