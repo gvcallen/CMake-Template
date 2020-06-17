@@ -1,0 +1,11 @@
+BuildType:
+  default: Debug
+  choices:
+    debug:
+      short: Debug
+      long: Disable optimizations - include debug information.
+      buildType: Debug
+    release:
+      short: Release
+      long: Optimize for speed - exclude debug information.
+      buildType: Release
