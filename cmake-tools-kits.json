@@ -1,0 +1,30 @@
+[
+    {
+      "name": "MinGW-32-bit",
+      "compilers": {
+        "C": "C:\\mingw\\MinGW-32-bit\\bin\\i686-w64-mingw32-gcc.exe",
+        "CXX": "C:\\mingw\\MinGW-32-bit\\bin\\i686-w64-mingw32-g++.exe"
+      },
+      "preferredGenerator": {
+        "name": "MinGW Makefiles"
+      },
+      "environmentVariables": {
+        "CMT_MINGW_PATH": "C:\\mingw\\MinGW-32-bit\\bin",
+        "GCC_VERSION": "10.0.0.1"
+      }
+    },
+    {
+      "name": "MinGW-64-bit",
+      "compilers": {
+        "C": "C:\\mingw\\MinGW-64-bit\\bin\\x86_64-w64-mingw32-gcc.exe",
+        "CXX": "C:\\mingw\\MinGW-64-bit\\bin\\x86_64-w64-mingw32-g++.exe"
+      },
+      "preferredGenerator": {
+        "name": "MinGW Makefiles"
+      },
+      "environmentVariables": {
+        "CMT_MINGW_PATH": "C:\\mingw\\MinGW-64-bit\\bin",
+        "GCC_VERSION": "10.0.0.1"
+      }
+    }
+  ]
