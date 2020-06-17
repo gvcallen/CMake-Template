@@ -52,4 +52,8 @@ If you would like this template to work out of the box, a few steps need to be f
 
 ## Conclusion
 
-That's it! I hoped you find this useful in some way. If you have any additions, suggestions, or bug-fixed, feel free to message/email me or submit a pull request. Happy coding!
+That's it! I hoped you find this useful in some way. If you have any additions, suggestions, or bug-fixed, feel free to message/email me or submit a pull request.
+
+vector-of-bool also as a github.io at https://vector-of-bool.github.io/docs/vscode-cmake-tools/getting_started.html with more help on the CMake Tools extension, which I definitely recommend reading if you get the chance. But, of course, us IDE programmers do just want things DONE! So I understand if that's too much ;).
+
+Happy coding!
