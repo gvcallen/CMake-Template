@@ -18,7 +18,7 @@ set(
 # Include directories
 set(
     INCLUDES
-    ${CURRENT_SOURCE_DIR}/include
+    ${CMAKE_CURRENT_SOURCE_DIR}/include
 )
 
 # Compiler definitions
